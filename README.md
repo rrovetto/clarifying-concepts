@@ -6,7 +6,7 @@ Welcome to C<sup>2</sup>, pronounced "See squared" where our goal is to help you
 
 collectively a simple service providing easy-to-grasp explanations and lecture services that clarify concepts in selected topics.
 
-The name of the service 'Clarifying concepts' or 'Clarifyinh complex concepts' should be read and interpreted in the sense of the activity of better explaining concepts, topics, ideas, etc. It should not primarily (if not at all) be read or interpreted in these of the word 'clarifying' being used as an adjective or modifier of 'concepts'.  
+The name of the service 'Clarifying concepts' or 'Clarifying Complex Concepts' should be interpreted in the sense of the activity of better explaining concepts, topics, ideas, etc. It should not primarily (if not at all) be interpreted in these of the word 'clarifying' being used as an adjective or modifier of 'concepts'.  
 
 ## Status
 The service provider is available for hire, collaborations, etc. Products are available for purchase (contact for list). 
