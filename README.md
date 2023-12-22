@@ -18,6 +18,12 @@ This GitHub repository is _under-construction_, and provides links to others for
 - Philosopher, Concept Engineer, [Formal ontologist](https://ontologforum.org/index.php/RobertRovetto), Knowledge representation practitioner
 - [Contact](mailto:rrovetto@terpalum.umd.edu)
 
+## Services - Products - Related Links
+
+- [The Ontology Guidebook: Development Guidelines](https://github.com/rrovetto/Ontology-Development-Guidelines) - thoughout you will find points that more precisely clarify concepts in ontology development and use.
+- [Ethics of Ontology Development & User](https://github.com/rrovetto/Ethics-of-Ontology-Development-and-Use)
+
+
 ## Copyright
 ©2019-2024, Robert J. Rovetto. All rights reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
