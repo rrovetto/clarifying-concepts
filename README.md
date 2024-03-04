@@ -8,7 +8,7 @@ collectively a simple service providing easy-to-grasp explanations and lecture s
 
 The name of the service 'Clarifying concepts' or 'Clarifying Complex Concepts' should be interpreted in the sense of the activity of better explaining concepts, topics, ideas, etc. It should not primarily (if not at all) be interpreted in these of the word 'clarifying' being used as an adjective or modifier of 'concepts'.  
 
-![image](https://github.com/rrovetto/clarifying-concepts/blob/e44c4d41cc0657bd89581868f36444f7c3be3923/images/ClarifyingConcepts_Diagram1_Rovetto.jpg)
+![image](images/ClarifyingConcepts_Diagram1_Rovetto.jpg)
 
 ## Status
 The service provider is available for hire, collaborations, etc. Products are available for purchase (contact for list). 
