@@ -32,4 +32,4 @@ Not authorized for commercial use unless explicitly negotiated with the author. 
 No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy.
 
 ## Attribution
-Attribution is required. Cite as: "C<sup>2</sup> / C<sup>3</sup> - Clarifying Complex Concept", Robert J. Rovetto, 2024. GitHub page.
+Attribution is required. Cite as: "C<sup>2</sup> / C<sup>3</sup> - Clarifying Complex Concepts", Robert J. Rovetto, 2024. GitHub page.
