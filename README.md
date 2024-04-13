@@ -4,9 +4,7 @@ Welcome to C<sup>2</sup>, pronounced "See squared" where our goal is to help you
 
 **C<sup>2</sup>** stands for _Clarifying Concepts_ and **C<sup>3</sup>**, _Clarifying Complex Concepts_, ...
 
-collectively a simple service providing easy-to-grasp explanations and lecture services that clarify concepts in selected topics.
-
-The name of the service 'Clarifying concepts' or 'Clarifying Complex Concepts' should be interpreted in the sense of the activity of better explaining concepts, topics, ideas, etc. It should not primarily (if not at all) be interpreted in these of the word 'clarifying' being used as an adjective or modifier of 'concepts'.  
+collectively a simple service providing easy-to-grasp explanations and lecture services that clarify concepts in selected topics
 
 ![image](images/ClarifyingConcepts_Diagram1_Rovetto.jpg)
 
@@ -33,6 +31,8 @@ This GitHub repository is _under-construction_, and provides links to others for
 - [The Ontology Guidebook: Development Guidelines](https://github.com/rrovetto/Ontology-Development-Guidelines) - thoughout you will find points that more precisely clarify concepts in ontology development and use.
 - [Ethics of Ontology Development & User](https://github.com/rrovetto/Ethics-of-Ontology-Development-and-Use)
 
+## Misc.
+The name of the service 'Clarifying concepts' or 'Clarifying Complex Concepts' should be interpreted in the sense of the activity of better explaining concepts, topics, ideas, etc. It should not primarily (if not at all) be interpreted in these of the word 'clarifying' being used as an adjective or modifier of 'concepts'.  
 
 ## Copyright
 ©2019-2024, Robert J. Rovetto. All rights reserved.
