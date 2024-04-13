@@ -1,6 +1,6 @@
 # C<sup>2</sup> : Clarifying (Complex) Concepts <sup>TM</sup>
 
-Welcome to C<sup>2</sup>, pronounced "See squared" where our goal is to help you see (comprehend) concepts more clearly. _Selected topics_ are from information science, philosophy, ethics, and science and engineering disciplines.
+Welcome to C<sup>2</sup>, pronounced "See squared" where our goal is to help you see (comprehend) concepts more clearly. _Selected concepts and topics_ are from information science, philosophy, ethics, and science and engineering disciplines.
 
 **C<sup>2</sup>** stands for _Clarifying Concepts_ and **C<sup>3</sup>**, _Clarifying Complex Concepts_, ...
 
