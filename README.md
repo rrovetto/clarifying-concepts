@@ -6,7 +6,7 @@ Welcome to C<sup>2</sup>, pronounced "See squared" where our goal is to help you
 
 collectively a simple service providing easy-to-grasp explanations and lecture services that clarify concepts in selected topics
 
-![image](images/ClarifyingConcepts_Diagram1_Rovetto.jpg)
+![image](https://github.com/rrovetto/clarifying-concepts/blob/86d9cefa24527d1996ce62e2b294b66c3d4f88b9/images/c2_rovetto_v2.jpg)
 
 ## Sample Concepts Clarified
 - The knowledge in knowledge representation and reasoning
