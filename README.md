@@ -8,7 +8,8 @@ collectively a simple service providing easy-to-grasp explanations and lecture s
 
 ![image](https://github.com/rrovetto/clarifying-concepts/blob/86d9cefa24527d1996ce62e2b294b66c3d4f88b9/images/c2_rovetto_v2.jpg)
 
-## Sample Concepts Clarified
+## Concepts Clarified
+- Concepts & terminology of Space: [spaceflight](https://rrovetto.github.io/Astronautics-Terminology/) and astro 
 - The knowledge in knowledge representation and reasoning
 - Ontology
 - Nodes and edges
